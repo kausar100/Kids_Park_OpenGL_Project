@@ -3,7 +3,7 @@
 Unzip above file.
 
 run it using Codeblocks.
-Here mainly created using glut, OpenGL, C/C++.
+The project mainly created using glut, OpenGL, C/C++.
 
 The Kids Park project contain different entertainment object.
 Such as dolna, dheki, rotating-bike, rotating-cup, car, ship, boat etc.
